@@ -5,10 +5,10 @@
 A modern decentralized application (dApp) for swapping cryptocurrencies with real-time market data and secure wallet integration.
 
 ## 🔗 Live Demo
-**[https://d-wallet2.vercel.app/home](https://d-wallet2.vercel.app/home)**
+**[https://dwallet-red.vercel.app/](https://dwallet-red.vercel.app/)**
 
 ## 👨‍💻 Developer
-**[Kundan Kumar](https://github.com/its-kundan)**
+**[Dhananjay kumar](https://github.com/DhananjayP29)**
 
 ## ✨ Features
 
